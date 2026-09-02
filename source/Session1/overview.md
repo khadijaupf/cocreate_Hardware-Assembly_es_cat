@@ -1,6 +1,7 @@
-# Overview
+# Visió general
+
 ```{suggestionnote}
-In this session you will: 
-- Form teams for further work and learn **how to collaborate effectively** within your team.
-- Review **safety protocols** for safely removing and handling components.
+En aquesta sessió fareu el següent:
+- Formar equips per al treball posterior i aprendre **a col·laborar de manera efectiva** dins del vostre equip.
+- Revisar **els protocols de seguretat** per retirar i manipular components de manera segura.
 ```
