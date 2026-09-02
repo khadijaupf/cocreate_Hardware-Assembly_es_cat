@@ -1,65 +1,64 @@
-# Safety Protocols
+# Protocols de seguretat
 
-Before working with computer hardware, it is essential to understand and apply safety rules that protect not only the equipment, but also the people handling it and the environment. Even small mistakes during disassembly or assembly can result in injuries, damaged components, or hazards such as fire and electric shock. By following safety rules, you ensure a safe learning environment and develop good professional habits that will serve you throughout your career.
+Abans de treballar amb maquinari informàtic, és essencial entendre i aplicar les normes de seguretat que protegeixen no només els equips, sinó també les persones que els manipulen i el medi ambient. Fins i tot petits errors durant el desmuntatge o el muntatge poden provocar lesions, danys als components o riscos com incendis i descàrrregues elèctriques. Seguint les normes de seguretat, garantiu un entorn d'aprenentatge segur i desenvolupeu bons hàbits professionals que us serviran al llarg de la vostra carrera.
 
-In this section, we will review **eight key areas of safety** to guide you in your work:
+En aquesta secció revisarem **vuit àrees clau de seguretat** que us guiaran en la feina:
 
-1. Workplace Safety  
-2. Accident Prevention  
-3. General Risk Factors  
-4. General Risk Factors in Computer Handling  
-5. Safety Signs  
-6. Workshop Precautions  
-7. Methods and Systems for Fire Extinguishing  
-8. First Aid
+1. Seguretat al lloc de treball  
+2. Prevenció d'accidents  
+3. Factors generals de risc  
+4. Factors generals de risc en la manipulació d'ordinadors  
+5. Senyals de seguretat  
+6. Precaucions al taller  
+7. Mètodes i sistemes d'extinció d'incendis  
+8. Primers auxilis
 
-## Electricity in the computer: Occupational Hazards And Environmental Protection
+## Electricitat a l'ordinador: riscos laborals i protecció ambiental
 
-### 1) Workplace safety
+### 1) Seguretat al lloc de treball
 
-It is the set of **techniques and procedures aimed at eliminating or reducing the risk** of workplace accidents and the damage they may cause: primarily to people, but also to property and the environment.
+És el conjunt de **tècniques i procediments orientats a eliminar o reduir el risc** d'accidents laborals i els danys que poden causar: principalment a les persones, però també als béns i al medi ambient.
 
-Its goal is to **prevent workplace accidents** by avoiding their occurrence or minimizing their immediate consequences on people and property. Therefore, workplace safety not only considers accidents that cause injuries but also those that could potentially cause them.
+El seu objectiu és **prevenir els accidents laborals** evitant-ne l'aparició o minimitzant-ne les conseqüències immediates sobre les persones i els béns. Per tant, la seguretat laboral no només considera els accidents que causen lesions, sinó també aquells que potencialment en podrien causar.
 
-### 2) Accident prevention
+### 2) Prevenció d'accidents
 
-Safety aims to prevent workplace accidents, which are essentially abnormal, unintended, and undesired events that occur unexpectedly and are usually avoidable. They interrupt normal work activity and may cause injuries to people. There are situations that can lead to accidents, either with injuries or without (incidents).
+La seguretat té com a finalitat prevenir accidents laborals, que són, essencialment, esdeveniments anormals, no intencionats i no desitjats que es produeixen de manera inesperada i, normalment, evitable. Interrompen l'activitat laboral normal i poden causar lesions a les persones. Hi ha situacions que poden conduir a accidents, amb lesions o sense (incidents).
 
-To prevent accidents, it is necessary to:
-  *   Know the risks we are exposed to
-  *   Understand that an accident can happen at any time
-  *   Be aware that it can happen to you too
-  *   Understand the real consequences of accidents
-  *   Be informed about the human and financial losses accidents can cause
+Per prevenir accidents, cal:
+  *   Conèixer els riscos als quals estem exposats
+  *   Entendre que un accident pot passar en qualsevol moment
+  *   Ser conscients que també ens pot passar a nosaltres
+  *   Comprendre les conseqüències reals dels accidents
+  *   Estar informats de les pèrdues humanes i econòmiques que poden causar
 
+### 3) Factors generals de risc
 
-### 3) General risk factors
+*Entorn ambiental*: Ha de garantir un confort tèrmic, visual i acústic adequat. La manca d'aquests factors pot conduir a errors que causin accidents o, simplement, irritabilitat. Una situació confortable es aquella en què les variables ambientals no generen distraccions, fatiga ni incomoditat. L'objectiu és assegurar que la persona no experimenti malestar que li distregui l'atenció o li impedeixi centrar-se en elements importants per a la seva salut i seguretat.
 
-*Environmental setting*: Must ensure thermal, visual, and acoustic comfort. A lack of these can lead to mistakes that may cause accidents or simply result in irritability. A comfortable situation is one in which environmental variables do not create distractions, fatigue, or discomfort. The goal is to ensure that the person does not experience discomfort that distracts their attention or prevents them from focusing on elements important to their health and safety.
+*Organització*: Un element clau de l'entorn és com s'organitza la feina (formació, informació, comunicació, relacions de grup, etc.), que també ha de ser confortable i ben adaptada als treballadors.
 
-*Organization*:  A key element of the environment is how the work is organized (training, information, communication, group relationships, etc.), which should also be comfortable and well-adapted to workers.
+*Confort psicològic*: És menys evident que el confort físic o mental i depèn dels trets individuals de cada persona. La psicologia ens ajuda a agrupar comportaments per preveure reaccions. El malestar pot aparèixer a curt termini (irritabilitat, ansietat), a mitjà termini (alteracions del son, cefalees tensionals) o a llarg termini (depressió, trastorns gastrointestinals, cardiovasculars o cutanis), afectant les persones tant dins com fora del lloc de treball.
 
-*Psychic comfort*: This is less obvious than physical or mental comfort and depends on each person’s individual traits. Psychology helps us group behaviors to predict reactions. Discomfort can appear in the short term (irritability, anxiety), medium term (sleep disturbances, tension headaches), or long term (depression, gastrointestinal, cardiovascular, or skin conditions), affecting people both inside and outside the workplace. 
+### 4) Factors generals de risc en la manipulacio d'ordinadors
 
-### 4) General risk factors in computer handling
+<u>Instal·lacions elèctriques</u>: Els sistemes informàtics funcionen amb electricitat, que pot provocar descàrregues elèctriques a la persona treballadora.
 
-<u>Electrical installations</u>:  Computer systems are powered by electricity, which can cause electric shocks to the worker.
+<u>Materials amb risc d'incendi</u>: Els curtcircuits elèctrics poden provocar incendis no només a l'ordinador, sinó també a la instal·lacio elèctrica de l'edifici.
 
-<u>Materials with fire risk</u>:  Electrical short circuits can cause fires not only in the computer but also in the building’s electrical system.
+<u>Manipulació d'eines o components</u>: L'ús d'eines o peces d'ordinador comporta riscos per a la persona treballadora.
 
-<u>Handling tools or components</u>: Using tools or computer parts presents risks for the worker.
+<u>Entorn de treball</u>: Soroll, humitat, pols, fred, etc., poden afectar la salut de la persona treballadora.
 
-<u>Work environment</u>: Noise, humidity, dust, cold, etc., can affect the worker’s health.
+<u>Postures forçades</u>: La postura que adoptem durant la feina diària pot provocar problemes físics.
 
-<u>Forced postures</u>: The posture we adopt during daily work can lead to physical problems for the worker.
+<u>Manipulació de càrregues</u>: Transportar materials pesats pot causar lesions físiques.
 
-<u>Handling loads</u>:  Carrying heavy materials can cause physical injuries.
+<u>Càrrega mental i addicció</u>: Concentrar-se durant llargs períodes també pot ser un factor de risc. L'ús excessiu de l'ordinador pot portar a addiccions (Internet, jocs, missatgeria, xarxes socials, etc.) que cal abordar abans que esdevinguin problemes de salut.
 
-<u>Mental load and addiction</u>: Concentrating for long periods can also be a risk factor. Excessive computer use can lead to addictions (to the Internet, games, messaging, social networks, etc.) that should be addressed before they become health problems.  
+### 5) Senyals de seguretat
 
-### 5) Safety signs
-
-It is important to know and respect the warning signs that appear on different elements.
+És important conàixer i respectar els senyals d'advertència que apareixen en diferents elements.
 
 
 ```{image} images/safety1-1.png
@@ -67,86 +66,89 @@ It is important to know and respect the warning signs that appear on different e
 :align: center
 :alt: Image contains various safety warning signs.
 ```
+
 ```{image} images/safety1-2.png
 :width: 90%
 :align: center
 :alt: Image contains various safety warning signs.
 ```
+
 ```{image} images/safety1-3.png
 :width: 90%
 :align: center
 :alt: Image contains various safety warning signs.
 ```
+
 ```{image} images/safety2.png
 :width: 80%
 :align: center
 :alt: Image contains various safety warning signs.
 ```
 
-Besides precautions, we will also check if they comply with the main safety regulations, especially those of the European Community.
+A més de les precaucions, també comprovarem si compleixen la normativa principal de seguretat, especialment la de la Unió Europea.
 
-1. **Regulated by the United States and Canada** (It can be found on hard drives, floppy drives...)
+1. **Regulat pels Estats Units i el Canadà** (Es pot trobar en discs durs, disqueteres...)
 ```{image} images/RegulatedbyUSandCanada.png
 :width: 25%
 :align: center
 :alt: Image of indicator of regulation by the United States and Canada.
 ```
-2. **Regulated by the European Union** (It has passed the European Union’s safety standards)
+2. **Regulat per la Unió Europea** (Ha superat les normes de seguretat de la Unio Europea)
 ```{image} images/RegulatedbyEU.png
 :width: 25%
 :align: center
 :alt: Image of indicator of regulation by EU.
 ```
-3. **European Electrical Certification Standards** (It has passed the European Union’s electrical safety standards)
+3. **Normes europees de certificació elèctrica** (Ha superat les normes de seguretat electrica de la Unio Europea)
 ```{image} images/EUCertificationStandards.png
 :width: 25%
 :align: center
 :alt: Image indicator of compliance with EU Standards.
 ```
-4. **Regulated by German standards** (TEST) (Geprüfte Sicherheitt)
+4. **Regulat per normes alemanyes** (TEST) (Geprufte Sicherheit)
 ```{image} images/GermanStandard.png
 :width: 25%
 :align: center
 :alt: Image indicator of German Standard compliance.
 ```
 
-### 6) Workshop precautions
+### 6) Precaucions al taller
 
 ```{image} images/Safety_Rules_Icons/Location.png
 :width: 7%
 :align: left
 :alt: Icon indicator of Location safety rules .
 ```
-**Location**: Choose a dry, well-ventilated workspace. There should be enough light to clearly see all components. Avoid areas with carpet or rugs, as these tend to generate static electricity. A good choice would be a bare, grounded surface.
+**Ubicació**: Trieu un espai de treball sec i ben ventilat. Hi ha d'haver prou llum per veure clarament tots els components. Eviteu zones amb catifes, ja que tendeixen a generar electricitat estàtica. Una bona opció es una superfície nua i connectada a terra.
 
 ```{image} images/Safety_Rules_Icons/Static_electricity.png
 :width: 7%
 :align: left
 :alt: Icon indicator of Static electricity safety .
 ```
-**Static electricity**: Static electricity is the greatest danger for the parts we assemble. Even a tiny discharge, too small for us to feel, can damage expensive and delicate electronic parts like the CPU, RAM, and other chips. It’s important to use an anti-static wrist strap.
+**Electricitat estàtica**: L'electricitat estàtica és el perill mes gran per a les peces que muntem. Fins i tot una descarrega mínima, massa petita per notar-la, pot malmetre peces electòniques cares i delicades, com la CPU, la RAM i altres xips. És important utilitzar una polsera antiestàtica.
 
 ```{image} images/Safety_Rules_Icons/Power_supply.png
 :width: 7%
 :align: left
 :alt: Icon indicator of Power supply safety.
 ```
-**Power supply**: Turn off the computer and unplug its power supply before installing or removing any components. If there is electricity flowing through components while handling them, they can be damaged, including the motherboard.
-Never cut or remove the grounding wire from the power cable. This safety measure protects against possible high-voltage discharges between the computer and the user.
+**Font d'alimentació**: Apagueu l'ordinador i desconnecteu-lo de la font d'alimentació abans d'instal·lar o retirar components. Si hi ha electricitat circulant pels components mentre els manipuleu, es poden danyar, inclosa la placa base.
+No talleu ni retireu mai el cable de presa de terra del cable d'alimentació. Aquesta mesura de seguretat protegeix la persona usuària de possibles descàrregues d'alt voltatge entre l'ordinador i aquesta.
 
 ```{image} images/Safety_Rules_Icons/Cuts.png
 :width: 7%
 :align: left
 :alt: Icon indicator of Cuts safety.
 ```
-**Cuts**: Cuts can happen from using pointed tools (screwdrivers, wire strippers, knives, etc.) or from sharp metal parts inside the computer. Be careful with sharp edges, especially inside the computer. Handle the inside of the computer case and its components carefully to avoid cutting your hands. (Sharp edges of the case can be smoothed with sandpaper before assembly.)
+**Talls**: Els talls poden produir-se en utilitzar eines punxants (tornavisos, pelacables, ganivets, etc.) o a causa de peces metàl·liques tallants dins l'ordinador. Aneu amb compte amb les vores esmolades, sobretot a l'interior de l'equip. Manipuleu amb cura la carcassa i els components per evitar tallar-vos les mans. (Les vores esmolades de la carcassa es poden suavitzar amb paper de vidre abans del muntatge.)
 
 ```{image} images/Safety_Rules_Icons/Disassembling_components.png
 :width: 7%
 :align: left
 :alt: Icon indicator of Disassembling components safety rules .
 ```
-**Disassembling components**: Avoid disassembling electronic components like the power supply or monitor, as it is very dangerous. They contain high-voltage capacitors that can cause serious electric shocks if touched. You can receive a severe or even fatal shock, even when the unit is unplugged, because they store a lot of energy.
+**Desmuntatge de components**: Eviteu desmuntar components electrònics com la font d'alimentació o el monitor, ja que és molt perillós. Contenen condensadors d'alt voltatge que poden causar descàrregues elèctriques greus si es toquen. Podeu rebre una descàrrega severa o fins i tot mortal, encara que la unitat estigui desconnectada, perquè emmagatzemen molta energia.
 
 
 ```{image} images/Safety_Rules_Icons/Toxicity.png
@@ -154,37 +156,37 @@ Never cut or remove the grounding wire from the power cable. This safety measure
 :align: left
 :alt: Icon indicator of Toxicity safety rules .
 ```
-**Toxicity**: Some electronic components can be toxic, so we are exposed to this risk, usually through wounds.
+**Toxicitat**: Alguns components electrònics poden ser tòxics, de manera que hi estem exposats, normalment a través de ferides.
 
 ```{image} images/Safety_Rules_Icons/Short_circuit_or_fire.png
 :width: 7%
 :align: left
 :alt: Icon indicator of Short circuit or fire safety rules .
 ```
-**Short circuit or fire**: A fire can be caused by an electrical short circuit, overheating, or even a battery explosion. We must avoid having conductive liquids nearby while handling the computer (coffee, water, etc.) and prevent any metal objects from falling inside the case while the computer is plugged in.
-It is important to check that the ventilation holes are not blocked and are functioning properly.
+**Curtcircuit o incendi**: Un incendi pot ser causat per un curtcircuit elèctric, un sobreescalfament o fins i tot l'explosió d'una bateria. Cal evitar tenir líquids conductors a prop mentre manipulem l'ordinador (cafè, aigua, etc.) i impedir que caigui cap objecte metàl·lic dins la carcassa mentre l'ordinador estigui connectat.
+És important comprovar que les reixetes de ventilació no estiguin obstruïdes i funcionin correctament.
 
-### 7) Methods and systems for fire extinguishing
+### 7) Mètodes i sistemes d'extinció d'incendis
 
-Extinguishing methods:
+Mètodes d'extinció:
 
 ```{list-table}
 :header-rows: 0
 
-* - ![Fire extinguishers](images/Extinguishing_systems/Fire_extinguishers.jpeg)
-  - Fire extinguishers
-* - ![Fire hose reels](images/Extinguishing_systems/Fire_hose_reels.jpg)
-  - Fire hose reels
-* - ![Dry risers in buildings](images/Extinguishing_systems/Dry_risers.png)
-  - Dry risers in buildings
-* - ![Automatic sprinklers](images/Extinguishing_systems/Automatic_sprinklers.jpg)
-  - Automatic sprinklers
+* - ![Extintors](images/Extinguishing_systems/Fire_extinguishers.jpeg)
+  - Extintors
+* - ![BIE](images/Extinguishing_systems/Fire_hose_reels.jpg)
+  - Boques d'incendi equipades
+* - ![Columna seca](images/Extinguishing_systems/Dry_risers.png)
+  - Columnes seques en edificis
+* - ![Ruixadors automatics](images/Extinguishing_systems/Automatic_sprinklers.jpg)
+  - Ruixadors automatics
 ```
 
-Different materials and equipment require different types of fire extinguishers. Knowing which extinguisher to use can prevent accidents and protect both people and devices. The image below shows the **five fire classes (A, B, C, D, and K)**. Each class refers to the type of material that is burning, for example, Class A for paper and textiles, Class B for flammable liquids, and Class C for electrical equipment.
+Diferents materials i equips requereixen diferents tipus d'extintors. Saber quin extintor cal utilitzar pot prevenir accidents i protegir tant les persones com els dispositius. La imatge següent mostra les **cinc classes de foc (A, B, C, D i K)**. Cada classe fa referència al tipus de material que crema; per exemple, la Classe A per a paper i teixits, la Classe B per a líquids inflamables i la Classe C per a equips electrònics.
 
 
-#### Fire classes 
+#### Classes de foc
 
 ```{image} images/Extinguishing_systems/Fire_Classes.png
 :width: 90%
@@ -192,27 +194,27 @@ Different materials and equipment require different types of fire extinguishers.
 :alt: Fire hose reel .
 ```
 
-Different extinguishers are designed for different fire classes. Using the wrong one can make the fire worse or cause harm. The table below shows which extinguishers are safe and effective for each type of fire.
+Diferents extintors estan dissenyats per a diferents classes de foc. Utilitzar-ne un d'incorrecte pot agreujar l'incendi o provocar danys. La taula següent mostra quins extintors són segurs i efectius per a cada tipus de foc.
 
-| Extinguisher Type | CLASS A | CLASS B | CLASS C | CLASS D | CLASS K |
+| Tipus d'extintor | CLASSE A | CLASSE B | CLASSE C | CLASSE D | CLASSE K |
 |---|---|---|---|---|---|
-| Foam Spray | **Yes** | **Yes** | No | No | No |
-| ABC Powder | **Yes** | **Yes** | **Yes** | Yes | No |
-| Carbon Dioxide | No | **Yes** | No | **Yes** | No |
-| Wet Chemical | **Yes** | No | No | No | **Yes** |
-| Water | **Yes** | No | No | No | No |
+| Escuma polvoritzada | **Si** | **Si** | No | No | No |
+| Pols ABC | **Si** | **Si** | **Si** | Si | No |
+| Dioxid de carboni | No | **Si** | No | **Si** | No |
+| Agent químic humit | **Si** | No | No | No | **Si** |
+| Aigua | **Si** | No | No | No | No |
 
-```{infonote} 
-When dealing with electrical equipment, such as computers, always use a **Class C extinguisher** (e.g., CO₂ or Halotron). These do not conduct electricity and prevent further damage to devices.
+```{infonote}
+Quan treballeu amb equips elèctrics, com ara ordinadors, utilitzeu sempre un **extintor de Classe C** (p. ex., CO2 o Halotron). No condueixen l'electricitat i eviten danys addicionals als dispositius.
 ```
 
-### 8) First aid
+### 8) Primers auxilis
 
-```{infonote} 
-In the event of an injury, it is advisable to contact the person responsible for first aid and/or call the **Emergency Medical Service**.
+```{infonote}
+En cas de lesió, es recomana contactar amb la persona responsable dels primers auxilis i/o trucar al Servei d’Emergències Mèdiques.
 ```
 
-On the following sheet 👇, you will find a **summary of the Safety Rules for Computer Assembly and Disassembly**, which you should use as a reference throughout all upcoming sessions:
+A la fitxa següent trobareu un **resum de les Normes de Seguretat per al Muntatge i Desmuntatge d'Ordinadors**, que heu d'utilitzar com a referència durant totes les sessions següents:
 
 ```{image} images/Safety_Rules_Sheet.jpg
 :width: 100%
