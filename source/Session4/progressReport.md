@@ -1,14 +1,14 @@
-# Final product
+# Producte final
 
-Well done on completing the Assembly Process, your template is now complete and will serve as your final product for the course. Take time to review it carefully as a group and then download it and submit it in Google Classroom. 
+Molt bé per haver completat el procés de muntatge; la vostra plantilla ja és completa i servirà com a producte final del curs.
 
-## Progress Report
+## Informe de progrés
 
-You did a great job today! 
+Heu estat excel·lents avui!
 
-Please take a moment to reflect, in groups, on your progress and share how today’s work went: what you accomplished, how each group member contributed, whether the collaboration was effective and what could be improved, what you learned, and what you plan for the next steps.
+Si us play, dediqueu un moment a reflexionar, en grups, sobre el vostre progrés i compartiu com ha anat el treball avui: què heu aconseguit, com ha contribuït cada membre del grup, si la col·laboració ha estat efectiva i què es podia millorar, què heu après i quins són els vostres pròxims passos.
 
-Answer each question as fully as possible so your teacher can better appreciate your progress.
+Responeu a cada pregunta de la manera més completa possible perquè el vostre professor pugui apreciar millor el vostre progrés.
 
 ```{raw} html
 <div style="text-align: center">
