@@ -1,47 +1,47 @@
-﻿# Materials and Assessments
+﻿# Materials i Avaluació
 
 ## Materials
 
-- 1 PC/laptop per group for disassembly and assembly
-- 1 1 PC/laptop with Internet access per group for accessing the Petlja platform and other external resources needed during the activity
-- 1 mobile phone for taking pictures
-- 1 tool kit per group (precision screwdrivers, anti-static wrist strap, zip ties, pliers, thermal paste, anti-static brush)
+- 1 PC/portàtil per grup per al desmuntatge i el muntatge
+- 1 PC/portàtil amb accés a Internet per grup per accedir a la plataforma Petlja i altres recursos externs necessaris durant l'activitat
+- 1 telèfon mòbil per fer fotografies
+- 1 joc d'eines per grup (tornavisos de precisió, polsera antielectrostàtica, brides, alicates, pasta tèrmica, raspall antielectrostàtic)
 
-## Assessment
+## Avaluació
 
-Your work will be assessed based on your **group’s progress in each session**, with particular attention to how your teamwork is organized and the effectiveness of your collaboration, as well as on the final product you produce, **a disassembly and assembly tutorial**.
+El vostre treball s'avaluarà en funció del **progrés del grup en cada sessió**, amb especial atenció a com s'organitza el treball en equip i l'eficàcia de la col·laboració, així com en el producte final que elaboreu, **un tutorial de desmuntatge i muntatge**.
 
-By the end of this course, each student should be able to:
+Al final d'aquest curs, cada estudiant hauria de ser capaç de:
 
-- Apply the correct procedures to assemble and disassemble a computer system.
-- Demonstrate safe practices when handling hardware components during assembly and disassembly tasks.
-- Identify and record the basic technical specifications (e.g., brand, model, capacity) of key computer components.
-- Produce clear and accurate technical documentation related to the assembly and disassembly process.
-- Apply effective collaborative strategies and provide reflections on the collaborative process.
+- Aplicar els procediments correctes per muntar i desmuntar un sistema informàtic.
+- Demostrar pràctiques segures en la manipulació de components de maquinari durant les tasques de muntatge i desmuntatge.
+- Identificar i registrar les especificacions tècniques bàsiques (p. ex., marca, model, capacitat) dels components principals d'un ordinador.
+- Produir documentació tècnica clara i precisa relacionada amb el procés de muntatge i desmuntatge.
+- Aplicar estratègies de col·laboració eficaces i reflexionar sobre el procés col·laboratiu.
 
-Your work will be assessed according to the following **rubric**:
+El vostre treball s'avaluarà d'acord amb la **rúbrica** següent:
 
-### Rubric: Rating Scale
+### Rúbrica: Escala de valoració
 
-- 1 - Not followed at all 
-- 2 — Mostly not followed 
-- 3 — Mostly followed 
-- 4 — Fully followed 
+- 1 - No s'ha seguit gens
+- 2 — Majoritàriament, no s’ha seguit
+- 3 — Majoritàriament, s’ha seguit 
+- 4 — S’ha seguit completament
 
-| Criteria                                                                 | 1 | 2 | 3 | 4 |
-|--------------------------------------------------------------------------|---|---|---|---|
-| Applies correct assembly/disassembly procedures                          | 1 | 2 | 3 | 4 |
-| Demonstrates safe hardware handling practices                            | 1 | 2 | 3 | 4 |
-| Identifies and records technical specifications                          | 1 | 2 | 3 | 4 |
-| Produces clear and accurate technical documentation                      | 1 | 2 | 3 | 4 |
-| **Collaboration Skills**                                                 |   |   |   |   |
-| 1. We are all equal and we respect one another.                          | 1 | 2 | 3 | 4 |
-| 2. We foster a good atmosphere even when we think differently.           | 1 | 2 | 3 | 4 |
-| 3. We are all responsible for group work. In successful groups, all members have a sense of joint or shared responsibility for the results of group work. | 1 | 2 | 3 | 4 |
-| 4. We help everyone contribute to group work.                            | 1 | 2 | 3 | 4 |
-| 5. We strive to involve everyone in decision-making.                     | 1 | 2 | 3 | 4 |
-| 6. The more ideas we consider, the more certain we are we have selected the best one. | 1 | 2 | 3 | 4 |
-| 7. We expound on every idea, weigh arguments, and devise solutions.      | 1 | 2 | 3 | 4 |
-| 8. We wisely use our time to work on the task.                           | 1 | 2 | 3 | 4 |
-| 9. We monitor our progress and contemplate our next step.                | 1 | 2 | 3 | 4 |
+| Criteris                                                                                 | 1 | 2 | 3 | 4 |
+|------------------------------------------------------------------------------------------|---|---|---|---|
+| Aplica els procediments correctes de muntatge i desmuntatge                              | 1 | 2 | 3 | 4 |
+| Demostra pràctiques segures en la manipulació del maquinari                              | 1 | 2 | 3 | 4 |
+| Identifica i registra les especificacions tècniques                                      | 1 | 2 | 3 | 4 |
+| Produeix documentació tècnica clara i precisa                                            | 1 | 2 | 3 | 4 |
+| **Habilitats de col·laboració**                                                          |   |   |   |   |
+| 1. Som tots iguals i ens respectem mútuament.                                            | 1 | 2 | 3 | 4 |
+| 2. Fomentem un bon ambient fins i tot quan pensem diferent.                              | 1 | 2 | 3 | 4 |
+| 3. Tots som responsables del treball en grup. En els grups reeixits, tots els membres tenen un sentit de responsabilitat conjunta o compartida pels resultats del treball en grup. | 1 | 2 | 3 | 4 |
+| 4. Ajudem tothom a contribuir al treball en grup.                                        | 1 | 2 | 3 | 4 |
+| 5. Ens esforcem per implicar tothom en la presa de decisions.                            | 1 | 2 | 3 | 4 |
+| 6. Com més idees considerem, més segurs estem que hem triat la millor.                   | 1 | 2 | 3 | 4 |
+| 7. Aprofundim en cada idea, sospesem els arguments i elaborem solucions.                 | 1 | 2 | 3 | 4 |
+| 8. Fem un ús intel·ligent del temps per treballar en la tasca.                           | 1 | 2 | 3 | 4 |
+| 9. Controlem el nostre progrés i reflexionem sobre el nostre proper pas.                 | 1 | 2 | 3 | 4 |
 
