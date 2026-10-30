@@ -1,47 +1,47 @@
-﻿# Materials and Assessments
+﻿# Materiales y Evaluaciones
 
-## Materials
+## Materiales
 
-- 1 PC/laptop per group for disassembly and assembly
-- 1 1 PC/laptop with Internet access per group for accessing the Petlja platform and other external resources needed during the activity
-- 1 mobile phone for taking pictures
-- 1 tool kit per group (precision screwdrivers, anti-static wrist strap, zip ties, pliers, thermal paste, anti-static brush)
+- 1 PC/portátil por grupo para desmontaje y montaje
+- 1 PC/portátil con acceso a Internet por grupo para acceder a la plataforma Petlja y otros recursos externos necesarios durante la actividad
+- 1 teléfono móvil para tomar fotos
+- 1 kit de herramientas por grupo (destornilladores de precisión, pulsera antiestática, bridas, alicates, pasta térmica, cepillo antiestático)
 
-## Assessment
+## Evaluación
 
-Your work will be assessed based on your **group’s progress in each session**, with particular attention to how your teamwork is organized and the effectiveness of your collaboration, as well as on the final product you produce, **a disassembly and assembly tutorial**.
+Su trabajo será evaluado en función del **progreso de su grupo en cada sesión**, prestando especial atención a cómo se organiza su trabajo en equipo y a la efectividad de su colaboración, así como al producto final que produzcan, que será **un tutorial de desmontaje y montaje**.
 
-By the end of this course, each student should be able to:
+Al final de este curso, cada estudiante debería ser capaz de:
 
-- Apply the correct procedures to assemble and disassemble a computer system.
-- Demonstrate safe practices when handling hardware components during assembly and disassembly tasks.
-- Identify and record the basic technical specifications (e.g., brand, model, capacity) of key computer components.
-- Produce clear and accurate technical documentation related to the assembly and disassembly process.
-- Apply effective collaborative strategies and provide reflections on the collaborative process.
+- Aplicar los procedimientos correctos para ensamblar y desmontar un sistema informático.
+- Demostrar prácticas seguras al manipular componentes de hardware durante las tareas de ensamblaje y desmontaje.
+- Identificar y registrar las especificaciones técnicas básicas (por ejemplo, marca, modelo, capacidad) de los componentes clave del ordenador.
+- Producir documentación técnica clara y precisa relacionada con el proceso de ensamblaje y desmontaje.
+- Aplicar estrategias colaborativas efectivas y proporcionar reflexiones sobre el proceso colaborativo.
 
-Your work will be assessed according to the following **rubric**:
+Su trabajo será evaluado según la siguiente **rúbrica**:
 
-### Rubric: Rating Scale
+### Rúbrica: Escala de Calificación
 
-- 1 - Not followed at all 
-- 2 — Mostly not followed 
-- 3 — Mostly followed 
-- 4 — Fully followed 
+- 1 - No seguido en absoluto 
+- 2 — Mayormente no seguido 
+- 3 — Mayormente seguido 
+- 4 — Totalmente seguido 
 
-| Criteria                                                                 | 1 | 2 | 3 | 4 |
+| Criterios                                                                 | 1 | 2 | 3 | 4 |
 |--------------------------------------------------------------------------|---|---|---|---|
-| Applies correct assembly/disassembly procedures                          | 1 | 2 | 3 | 4 |
-| Demonstrates safe hardware handling practices                            | 1 | 2 | 3 | 4 |
-| Identifies and records technical specifications                          | 1 | 2 | 3 | 4 |
-| Produces clear and accurate technical documentation                      | 1 | 2 | 3 | 4 |
-| **Collaboration Skills**                                                 |   |   |   |   |
-| 1. We are all equal and we respect one another.                          | 1 | 2 | 3 | 4 |
-| 2. We foster a good atmosphere even when we think differently.           | 1 | 2 | 3 | 4 |
-| 3. We are all responsible for group work. In successful groups, all members have a sense of joint or shared responsibility for the results of group work. | 1 | 2 | 3 | 4 |
-| 4. We help everyone contribute to group work.                            | 1 | 2 | 3 | 4 |
-| 5. We strive to involve everyone in decision-making.                     | 1 | 2 | 3 | 4 |
-| 6. The more ideas we consider, the more certain we are we have selected the best one. | 1 | 2 | 3 | 4 |
-| 7. We expound on every idea, weigh arguments, and devise solutions.      | 1 | 2 | 3 | 4 |
-| 8. We wisely use our time to work on the task.                           | 1 | 2 | 3 | 4 |
-| 9. We monitor our progress and contemplate our next step.                | 1 | 2 | 3 | 4 |
+| Aplica procedimientos correctos de ensamblaje/desmontaje                 | 1 | 2 | 3 | 4 |
+| Demuestra prácticas seguras al manipular hardware                        | 1 | 2 | 3 | 4 |
+| Identifica y registra especificaciones técnicas                          | 1 | 2 | 3 | 4 |
+| Produce documentación técnica clara y precisa                            | 1 | 2 | 3 | 4 |
+| **Habilidades de Colaboración**                                          |   |   |   |   |
+| 1. Todos somos iguales y nos respetamos mutuamente.                      | 1 | 2 | 3 | 4 |
+| 2. Fomentamos un buen ambiente incluso cuando pensamos diferente.        | 1 | 2 | 3 | 4 |
+| 3. Todos somos responsables del trabajo en grupo. En los grupos exitosos, todos los miembros tienen un sentido de responsabilidad conjunta o compartida por los resultados del trabajo en grupo. | 1 | 2 | 3 | 4 |
+| 4. Ayudamos a que todos contribuyan al trabajo en grupo.                 | 1 | 2 | 3 | 4 |
+| 5. Nos esforzamos por involucrar a todos en la toma de decisiones.       | 1 | 2 | 3 | 4 |
+| 6. Cuantas más ideas consideremos, más seguros estaremos de haber seleccionado la mejor. | 1 | 2 | 3 | 4 |
+| 7. Desarrollamos cada idea, sopesamos argumentos y elaboramos soluciones.| 1 | 2 | 3 | 4 |
+| 8. Usamos sabiamente nuestro tiempo para trabajar en la tarea.           | 1 | 2 | 3 | 4 |
+| 9. Monitoreamos nuestro progreso y contemplamos nuestro próximo paso.    | 1 | 2 | 3 | 4 |
 
