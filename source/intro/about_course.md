@@ -1,47 +1,47 @@
-﻿# About the Course
+# Sobre el Curso
 
-## Objectives
+## Objetivos
 
-By the end, you will be able to:
-- Safely assemble and disassemble computer equipment
-- Use basic tools, safety equipment, and the platform correctly while working with hardware and laptops
-- Improve teamwork, communication, problem-solving, and time management skills
+Al final del curso, podrás:
+- Desmontar y montar con seguridad equipos informáticos
+- Utilizar herramientas básicas, equipo de protección y la plataforma correctamente mientras trabajas con hardware y portátiles
+- Mejorar el trabajo en equipo, la comunicación, la resolución de problemas y la gestión del tiempo
 
-## Prerequisites
+## Requisitos Previos
 
-Before starting this activity, you should already know the main computer parts and their basic specifications, including:
+Antes de comenzar esta actividad, ya debes conocer las partes principales del ordenador y sus especificaciones básicas, incluyendo:
 
-- Power Supply: Power rating (W), Voltage (V), Molex, SATA and PCIe (for GPUs) **connectors, Form factors** (ATX, SFX, etc.)
-- Motherboard: CPU socket type (e.g., LGA, AM), **RAM slots** (number and type), Expansion slots (PCI, PCIe, M.2), USB ports (2.0, 3.0, 3.1, 3.2, USB-C), Data and power **connectors** (SATA, Molex, M.2, NVMe) **Chipset and overall compatibility**.
-- RAM: Capacity and technology (e.g., DDR, DDR2, DDR3, DDR4), Transfer rate and frequency, Timings, ECC support, **Chip layout**
-- Hard Drive (HDD): Rotation speed (RPM), Data transfer rate, Data and power connections, **Connectors** (SATA, Molex).
-- Solid State Drive (SSD): **Connectors** (SATA, M.2 SATA, NVMe PCIe), Read/write speed (MB/s or GB/s).
-- Processor (CPU): Number of cores and threads, Base and turbo frequency (GHz), Cache (L1, L2, L3), Power consumption (TDP), **Compatibility with motherboard/socket**.
-- Cooling Systems: Fans (size, RPM, airflow in CFM), CPU cooler (air or liquid cooling), **Thermal paste** (thermal conductivity W/mK)
-- Case / Chassis: **Form factor** (ATX, Micro-ATX, Mini-ITX), Cable management features, Space for fans, Drive bays for HDD/SSD.
+- Fuente de Alimentación: Potencia nominal (W), Voltaje (V), Conectores Molex, SATA y PCIe (para GPUs) **Factores de forma** (ATX, SFX, etc.)
+- Placa Base: Tipo de socket de CPU (por ejemplo, LGA, AM), **Ranuras de RAM** (número y tipo), Ranuras de expansión (PCI, PCIe, M.2), Puertos USB (2.0, 3.0, 3.1, 3.2, USB-C), datos y energía **conectores** (SATA, Molex, M.2, NVMe) **Chipset y compatibilidad general**.
+- RAM: Capacidad y tecnología (por ejemplo, DDR, DDR2, DDR3, DDR4), tasa de transferencia y frecuencia, timings, soporte ECC, **diseño de chips**.
+- Disco Duro (HDD): Velocidad de rotación (RPM), tasa de transferencia de datos, conexiones de datos y energía, **conectores** (SATA, Molex).
+- Unidad de Estado Sólido (SSD): **conectores** (SATA, M.2 SATA, NVMe PCIe), velocidad de lectura/escritura (MB/s o GB/s).
+- Procesador (CPU): Número de núcleos e hilos, frecuencia base y turbo (GHz), caché (L1, L2, L3), consumo de energía (TDP), **compatibilidad con placa base/socket**.
+- Sistemas de Enfriamiento: Ventiladores (tamaño, RPM, flujo de aire en CFM), enfriador de CPU (enfriamiento por aire o líquido), **pasta térmica** (conductividad térmica W/mK).
+- Caja / Chasis: **factor de forma** (ATX, Micro-ATX, Mini-ITX), características de gestión de cables, espacio para ventiladores, bahías para discos HDD/SSD.
 
-## Course Description
+## Descripción del Curso
 
-In this course, you will learn how to **safely and collaboratively disassemble and reassemble a computer system**, identify and record its components, and produce clear, accurate technical documentation of the entire process. The activity will be carried out across four sessions:
+En este curso, aprenderás cómo **desmontar y montar con seguridad y de forma colaborativa un ordenador**, identificar y registrar sus componentes y producir documentación técnica clara y precisa de todo el proceso. La actividad se realizará en cuatro sesiones:
 
-## Sessions
+## Sesiones
 
-### Session 1 - Collaboration and Safety Rules
+### Sesión 1 - Colaboración y Normas de Seguridad
 
-We will form work groups, review **collaboration tips** to guide your teamwork in completing the activity, and go over **safety protocols** for handling hardware components.
+Formaremos grupos de trabajo, revisaremos **los consejos de colaboración** para guiar tu trabajo en equipo en la realización de la actividad, y discutiremos **los protocolos de seguridad** para el manejo seguro de componentes de hardware.
 
-### Session 2 - Developing a Disassembly Tutorial
+### Sesión 2 - Desarrollo de un Tutorial de Desmontaje
 
-Each group will disassemble a computer, documenting each step with written notes and photographs to create a **disassembly tutorial**.
+Cada grupo desmontará un ordenador, documentando cada paso con notas escritas y fotografías para crear un **tutorial de desmontaje**.
 
-### Session 3 - Creating a Hardware Inventory
+### Sesión 3 - Creación de un Inventario de Hardware
 
-With the computer disassembled, each group will proceed to identify and document the technical specifications of the components to create a **hardware inventory**. 
+Con el ordenador desmontado, cada grupo procederá a identificar y documentar las especificaciones técnicas de los componentes para crear un **inventario de hardware**.
 
-### Session 4 - Developing an Assembly Tutorial
+### Sesión 4 - Desarrollo de un Tutorial de Montaje
 
-Each group will develop an **assembly tutorial** by reassembling the computer, and documenting and taking pictures of the process. 
+Cada grupo desarrollará un **tutorial de montaje** volviendo a montar el ordenador, documentando y tomando fotos del proceso.
 
 ```{suggestionnote}
-At the end of every session, groups will record their progress and individual member contributions, allowing the teacher to monitor both task advancement and the collaboration process.
+Al final de cada sesión, los grupos registrarán su progreso y las contribuciones individuales de los miembros, permitiendo al profesor monitorear tanto el avance de las tareas como el proceso de colaboración.
 ```
