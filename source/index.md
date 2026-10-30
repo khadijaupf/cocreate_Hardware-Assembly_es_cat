@@ -1,45 +1,44 @@
 ﻿---
 status: exclude
-alias: CoCreate_HW_Assembly_en
+alias: CoCreate_HW_Assembly_en_ESVersion
 lang: en
-short_description: Collaboratively disassembling and reassembling a computer system.
+short_description: Desmontar y volver a montar un sistema informático de forma colaborativa.
 long_description: >
-    <p>In this course, learners will safely and collaboratively disassemble and reassemble a computer system, identify and record its components, and produce clear, accurate technical documentation of the entire process across four sessions.</p>
+    <p>En este curso, los estudiantes desmontarán y volverán a montar de forma segura y colaborativa un sistema informático, identificarán y registrarán sus componentes, y producirán documentación técnica clara y precisa de todo el proceso a lo largo de cuatro sesiones.</p>
     <p>
-    <p>This course has been developed sa part of Erasmus+ project: <a rel="license" href="https://erasmus-cocreate.petlja.org">CoCreate - Computer-Supported Collaborative Learning for Inclusive Education</a>
+    <p>Este curso ha sido desarrollado como parte del proyecto Erasmus+: <a rel="license" href="https://erasmus-cocreate.petlja.org">CoCreate - Aprendizaje Colaborativo Asistido por Computadora para la Educación Inclusiva</a>
     </p>
     <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.en">
-    <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
-    <br>This course was published by Petlja Foundation under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.en">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>.
+    <img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
+    <br>Este curso fue publicado por la Fundación Petlja bajo la <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.en">Licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0)</a>.
     </p>
 will_learn:
-    - Techniques and procedures for assembling and disassembling computer equipment.
-    - How to work with hand tools, protective gear, and technology, using laptops and the platform correctly.
-    - How to collaborate and communicate, problem-solving, teamwork, and time management skills.
+    - Técnicas y procedimientos para ensamblar y desmontar equipos informáticos.
+    - Cómo trabajar con herramientas manuales, equipo de protección y tecnología, utilizando correctamente los ordenadores portátiles y la plataforma.
+    - Cómo colaborar y comunicarse, resolver problemas, trabajar en equipo y gestionar el tiempo.
 
 needed: 
-    - 1 PC/laptop per group for disassembly and assembly
-    - 1 PC/laptop with Internet access per group for resources and platform
-    - 1 mobile phone for taking pictures
-    - 1 tool kit per group (precision screwdrivers, anti-static wrist strap, zip ties, pliers, thermal paste, anti-static brush)
+    - 1 PC/portátil por grupo para desmontaje y montaje
+    - 1 PC/portátil con acceso a Internet por grupo para consultar recursos y acceder a la plataforma
+    - 1 teléfono móvil para tomar fotos
+    - 1 kit de herramientas por grupo (destornilladores de precisión, pulsera antiestática, bridas, alicates, pasta térmica, cepillo antiestático)
     
 useful:
-    - Python 3.12 documentation: https://docs.python.org/3.12/
+    - Documentación de Python 3.12: https://docs.python.org/3.12/
 ---
 
-# Data Analysis - Visualization
+# Análisis de Datos - Visualización
 
-You are about to start an introductory course ......
+Estás a punto de comenzar un curso introductorio ......
 
-Course author: Project team from Universitat Pompeu Fabra Barcelona
+Autor del curso: Equipo del proyecto de la Universitat Pompeu Fabra Barcelona
 
-This course is published by Petlja Foundation under the
-[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.sr_LATN).
-
+Este curso fue publicado por la Fundación Petlja bajo la
+[Licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.sr_LATN).
 
 ```{toctree}
 :maxdepth: 2
-:caption: Contents
+:caption: Contenidos
 :hidden:
 
 intro/index
@@ -47,3 +46,4 @@ Session1/index
 Session2/index
 Session3/index
 Session4/index
+```
