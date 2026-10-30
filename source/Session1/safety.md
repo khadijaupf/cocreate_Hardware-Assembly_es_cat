@@ -1,221 +1,224 @@
-# Safety Protocols
+# Protocolos de Seguridad
 
-Before working with computer hardware, it is essential to understand and apply safety rules that protect not only the equipment, but also the people handling it and the environment. Even small mistakes during disassembly or assembly can result in injuries, damaged components, or hazards such as fire and electric shock. By following safety rules, you ensure a safe learning environment and develop good professional habits that will serve you throughout your career.
+Antes de trabajar con hardware de ordenadores, es esencial comprender y aplicar reglas de seguridad que protejan no solo el equipo, sino también a las personas que lo manipulan y al entorno. Incluso pequeños errores durante el desmontaje o montaje pueden provocar lesiones, daños en los componentes o riesgos como incendios y descargas eléctricas. Al seguir las reglas de seguridad, aseguras un entorno de aprendizaje seguro y desarrollas buenos hábitos profesionales que te servirán a lo largo de tu carrera.
 
-In this section, we will review **eight key areas of safety** to guide you in your work:
+En esta sección, revisaremos **ocho áreas clave de seguridad** para guiarte en tu trabajo:
 
-1. Workplace Safety  
-2. Accident Prevention  
-3. General Risk Factors  
-4. General Risk Factors in Computer Handling  
-5. Safety Signs  
-6. Workshop Precautions  
-7. Methods and Systems for Fire Extinguishing  
-8. First Aid
+1. Seguridad en el lugar de trabajo  
+2. Prevención de accidentes  
+3. Factores generales de riesgo  
+4. Factores generales de riesgo en el manejo de ordenadores  
+5. Señales de seguridad  
+6. Precauciones en el taller  
+7. Métodos y sistemas de extinción de incendios  
+8. Primeros auxilios
 
-## Electricity in the computer: Occupational Hazards And Environmental Protection
+## Electricidad en el ordenador: Riesgos Laborales y Protección Ambiental
 
-### 1) Workplace safety
+### 1) Seguridad en el lugar de trabajo
 
-It is the set of **techniques and procedures aimed at eliminating or reducing the risk** of workplace accidents and the damage they may cause: primarily to people, but also to property and the environment.
+Es el conjunto de **técnicas y procedimientos destinados a eliminar o reducir el riesgo** de accidentes laborales y los daños que puedan causar: principalmente a las personas, pero también a los bienes y al medio ambiente.
 
-Its goal is to **prevent workplace accidents** by avoiding their occurrence or minimizing their immediate consequences on people and property. Therefore, workplace safety not only considers accidents that cause injuries but also those that could potentially cause them.
+Su objetivo es **prevenir accidentes laborales** evitando su ocurrencia o minimizando sus consecuencias inmediatas sobre las personas y los bienes. Por lo tanto, la seguridad en el trabajo no solo considera los accidentes que causan lesiones, sino también aquellos que podrían causarlas.
 
-### 2) Accident prevention
+### 2) Prevención de accidentes
 
-Safety aims to prevent workplace accidents, which are essentially abnormal, unintended, and undesired events that occur unexpectedly and are usually avoidable. They interrupt normal work activity and may cause injuries to people. There are situations that can lead to accidents, either with injuries or without (incidents).
+La seguridad busca prevenir los accidentes laborales, que son esencialmente eventos anormales, no intencionados y no deseados que ocurren inesperadamente y que generalmente son evitables. Interrumpen la actividad laboral normal y pueden causar lesiones a las personas. Hay situaciones que pueden provocar accidentes, ya sea con lesiones o sin ellas (incidentes).
 
-To prevent accidents, it is necessary to:
-  *   Know the risks we are exposed to
-  *   Understand that an accident can happen at any time
-  *   Be aware that it can happen to you too
-  *   Understand the real consequences of accidents
-  *   Be informed about the human and financial losses accidents can cause
+Para prevenir accidentes, es necesario:
+  *   Conocer los riesgos a los que estamos expuestos
+  *   Entender que un accidente puede ocurrir en cualquier momento
+  *   Ser consciente de que también te puede pasar a ti
+  *   Comprender las consecuencias reales de los accidentes
+  *   Estar informado sobre las pérdidas humanas y económicas que pueden causar los accidentes
 
+### 3) Factores generales de riesgo
 
-### 3) General risk factors
+*Entorno ambiental*: Debe garantizar el confort térmico, visual y acústico. La falta de estos puede llevar a errores que pueden causar accidentes o simplemente resultar en irritabilidad. Una situación confortable es aquella en la que las variables ambientales no generan distracciones, fatiga o incomodidad. El objetivo es asegurar que la persona no experimente molestias que distraigan su atención o le impidan concentrarse en elementos importantes para su salud y seguridad.
 
-*Environmental setting*: Must ensure thermal, visual, and acoustic comfort. A lack of these can lead to mistakes that may cause accidents or simply result in irritability. A comfortable situation is one in which environmental variables do not create distractions, fatigue, or discomfort. The goal is to ensure that the person does not experience discomfort that distracts their attention or prevents them from focusing on elements important to their health and safety.
+*Organización*:  Un elemento clave del entorno es cómo se organiza el trabajo (formación, información, comunicación, relaciones de grupo, etc.), que también debe ser cómodo y estar bien adaptado a los trabajadores.
 
-*Organization*:  A key element of the environment is how the work is organized (training, information, communication, group relationships, etc.), which should also be comfortable and well-adapted to workers.
+*Confort psíquico*: Esto es menos evidente que el confort físico o mental y depende de los rasgos individuales de cada persona. La psicología nos ayuda a agrupar comportamientos para predecir reacciones. El malestar puede aparecer a corto plazo (irritabilidad, ansiedad), medio plazo (alteraciones del sueño, cefaleas tensionales) o largo plazo (depresión, afecciones gastrointestinales, cardiovasculares o cutáneas), afectando a las personas tanto dentro como fuera del lugar de trabajo. 
 
-*Psychic comfort*: This is less obvious than physical or mental comfort and depends on each person’s individual traits. Psychology helps us group behaviors to predict reactions. Discomfort can appear in the short term (irritability, anxiety), medium term (sleep disturbances, tension headaches), or long term (depression, gastrointestinal, cardiovascular, or skin conditions), affecting people both inside and outside the workplace. 
+### 4) Factores generales de riesgo en el manejo de ordenadores
 
-### 4) General risk factors in computer handling
+<u>Instalaciones eléctricas</u>:  Los sistemas informáticos funcionan con electricidad, lo que puede provocar descargas eléctricas al trabajador.
 
-<u>Electrical installations</u>:  Computer systems are powered by electricity, which can cause electric shocks to the worker.
+<u>Materiales con riesgo de incendio</u>:  Los cortocircuitos eléctricos pueden provocar incendios no solo en el ordenador, sino también en el sistema eléctrico del edificio.
 
-<u>Materials with fire risk</u>:  Electrical short circuits can cause fires not only in the computer but also in the building’s electrical system.
+<u>Manejo de herramientas o componentes</u>: El uso de herramientas o piezas de ordenador presenta riesgos para el trabajador.
 
-<u>Handling tools or components</u>: Using tools or computer parts presents risks for the worker.
+<u>Entorno de trabajo</u>: El ruido, la humedad, el polvo, el frío, etc., pueden afectar la salud del trabajador.
 
-<u>Work environment</u>: Noise, humidity, dust, cold, etc., can affect the worker’s health.
+<u>Posturas forzadas</u>: La postura que adoptamos durante el trabajo diario puede provocar problemas físicos al trabajador.
 
-<u>Forced postures</u>: The posture we adopt during daily work can lead to physical problems for the worker.
+<u>Manejo de cargas</u>:  Transportar materiales pesados puede causar lesiones físicas.
 
-<u>Handling loads</u>:  Carrying heavy materials can cause physical injuries.
+<u>Carga mental y adicción</u>: Concentrarse durante largos periodos también puede ser un factor de riesgo. El uso excesivo del ordenador puede llevar a adicciones (a Internet, juegos, mensajería, redes sociales, etc.) que deben abordarse antes de que se conviertan en problemas de salud.  
 
-<u>Mental load and addiction</u>: Concentrating for long periods can also be a risk factor. Excessive computer use can lead to addictions (to the Internet, games, messaging, social networks, etc.) that should be addressed before they become health problems.  
+### 5) Señales de seguridad
 
-### 5) Safety signs
-
-It is important to know and respect the warning signs that appear on different elements.
+Es importante conocer y respetar las señales de advertencia que aparecen en diferentes elementos.
 
 
 ```{image} images/safety1-1.png
 :width: 90%
 :align: center
-:alt: Image contains various safety warning signs.
+:alt: La imagen contiene varias señales de advertencia de seguridad.
 ```
+
 ```{image} images/safety1-2.png
 :width: 90%
 :align: center
-:alt: Image contains various safety warning signs.
+:alt: La imagen contiene varias señales de advertencia de seguridad.
 ```
+
 ```{image} images/safety1-3.png
 :width: 90%
 :align: center
-:alt: Image contains various safety warning signs.
+:alt: La imagen contiene varias señales de advertencia de seguridad.
 ```
+
 ```{image} images/safety2.png
 :width: 80%
 :align: center
-:alt: Image contains various safety warning signs.
+:alt: La imagen contiene varias señales de advertencia de seguridad.
 ```
 
-Besides precautions, we will also check if they comply with the main safety regulations, especially those of the European Community.
+Además de las precauciones, también comprobaremos si cumplen con las principales normativas de seguridad, especialmente las de la Comunidad Europea.
 
-1. **Regulated by the United States and Canada** (It can be found on hard drives, floppy drives...)
+1. **Regulado por Estados Unidos y Canadá** (Se puede encontrar en discos duros, disqueteras...)
 ```{image} images/RegulatedbyUSandCanada.png
 :width: 25%
 :align: center
-:alt: Image of indicator of regulation by the United States and Canada.
+:alt: Imagen del indicador de regulación por Estados Unidos y Canadá.
 ```
-2. **Regulated by the European Union** (It has passed the European Union’s safety standards)
+2. **Regulado por la Unión Europea** (Ha superado los estándares de seguridad de la Unión Europea)
 ```{image} images/RegulatedbyEU.png
 :width: 25%
 :align: center
-:alt: Image of indicator of regulation by EU.
+:alt: Imagen del indicador de regulación por la UE.
 ```
-3. **European Electrical Certification Standards** (It has passed the European Union’s electrical safety standards)
+3. **Normas Europeas de Certificación Eléctrica** (Ha superado los estándares de seguridad eléctrica de la Unión Europea)
 ```{image} images/EUCertificationStandards.png
 :width: 25%
 :align: center
-:alt: Image indicator of compliance with EU Standards.
+:alt: Imagen del indicador de cumplimiento de Normas de la UE.
 ```
-4. **Regulated by German standards** (TEST) (Geprüfte Sicherheitt)
+4. **Regulado por normas alemanas** (TEST) (Geprüfte Sicherheitt)
 ```{image} images/GermanStandard.png
 :width: 25%
 :align: center
-:alt: Image indicator of German Standard compliance.
+:alt: Imagen del indicador de cumplimiento de la Norma Alemana.
 ```
 
-### 6) Workshop precautions
+### 6) Precauciones en el taller
 
 ```{image} images/Safety_Rules_Icons/Location.png
 :width: 7%
 :align: left
-:alt: Icon indicator of Location safety rules .
+:alt: Icono indicador de reglas de seguridad de ubicación.
 ```
-**Location**: Choose a dry, well-ventilated workspace. There should be enough light to clearly see all components. Avoid areas with carpet or rugs, as these tend to generate static electricity. A good choice would be a bare, grounded surface.
+**Ubicación**: Elige un espacio de trabajo seco y bien ventilado. Debe haber suficiente luz para ver claramente todos los componentes. Evita áreas con alfombras o tapetes, ya que tienden a generar electricidad estática. Una buena opción sería una superficie desnuda y conectada a tierra.
 
 ```{image} images/Safety_Rules_Icons/Static_electricity.png
 :width: 7%
 :align: left
-:alt: Icon indicator of Static electricity safety .
+:alt: Icono indicador de seguridad contra electricidad estática.
 ```
-**Static electricity**: Static electricity is the greatest danger for the parts we assemble. Even a tiny discharge, too small for us to feel, can damage expensive and delicate electronic parts like the CPU, RAM, and other chips. It’s important to use an anti-static wrist strap.
+**Electricidad estática**: La electricidad estática es el mayor peligro para las piezas que ensamblamos. Incluso una descarga diminuta, demasiado pequeña para que la sintamos, puede dañar piezas electrónicas costosas y delicadas como la CPU, la RAM y otros chips. Es importante usar una pulsera antiestática.
 
 ```{image} images/Safety_Rules_Icons/Power_supply.png
 :width: 7%
 :align: left
-:alt: Icon indicator of Power supply safety.
+:alt: Icono indicador de seguridad de la fuente de alimentación.
 ```
-**Power supply**: Turn off the computer and unplug its power supply before installing or removing any components. If there is electricity flowing through components while handling them, they can be damaged, including the motherboard.
-Never cut or remove the grounding wire from the power cable. This safety measure protects against possible high-voltage discharges between the computer and the user.
+**Fuente de alimentación**: Apaga la computadora y desconecta su fuente de alimentación antes de instalar o quitar cualquier componente. Si hay electricidad fluyendo por los componentes mientras los manipulas, pueden dañarse, incluida la placa base.
+Nunca cortes ni retires el cable de tierra del cable de alimentación. Esta medida de seguridad protege contra posibles descargas de alto voltaje entre la computadora y el usuario.
 
 ```{image} images/Safety_Rules_Icons/Cuts.png
 :width: 7%
 :align: left
-:alt: Icon indicator of Cuts safety.
+:alt: Icono indicador de seguridad contra cortes.
 ```
-**Cuts**: Cuts can happen from using pointed tools (screwdrivers, wire strippers, knives, etc.) or from sharp metal parts inside the computer. Be careful with sharp edges, especially inside the computer. Handle the inside of the computer case and its components carefully to avoid cutting your hands. (Sharp edges of the case can be smoothed with sandpaper before assembly.)
+**Cortes**: Los cortes pueden ocurrir al usar herramientas puntiagudas (destornilladores, pelacables, cuchillos, etc.) o por partes metálicas afiladas dentro de la computadora. Ten cuidado con los bordes afilados, especialmente dentro de la computadora. Manipula el interior de la carcasa y sus componentes con cuidado para evitar cortarte las manos. (Los bordes afilados de la carcasa pueden suavizarse con papel de lija antes del montaje.)
 
 ```{image} images/Safety_Rules_Icons/Disassembling_components.png
 :width: 7%
 :align: left
-:alt: Icon indicator of Disassembling components safety rules .
+:alt: Icono indicador de reglas de seguridad al desmontar componentes.
 ```
-**Disassembling components**: Avoid disassembling electronic components like the power supply or monitor, as it is very dangerous. They contain high-voltage capacitors that can cause serious electric shocks if touched. You can receive a severe or even fatal shock, even when the unit is unplugged, because they store a lot of energy.
+**Desmontaje de componentes**: Evita desmontar componentes electrónicos como la fuente de alimentación o el monitor, ya que es muy peligroso. Contienen condensadores de alto voltaje que pueden causar graves descargas eléctricas si se tocan. Puedes recibir una descarga grave o incluso mortal, incluso cuando la unidad está desenchufada, porque almacenan mucha energía.
 
 
 ```{image} images/Safety_Rules_Icons/Toxicity.png
 :width: 7%
 :align: left
-:alt: Icon indicator of Toxicity safety rules .
+:alt: Icono indicador de reglas de seguridad sobre toxicidad.
 ```
-**Toxicity**: Some electronic components can be toxic, so we are exposed to this risk, usually through wounds.
+**Toxicidad**: Algunos componentes electrónicos pueden ser tóxicos, por lo que estamos expuestos a este riesgo, generalmente a través de heridas.
 
 ```{image} images/Safety_Rules_Icons/Short_circuit_or_fire.png
 :width: 7%
 :align: left
-:alt: Icon indicator of Short circuit or fire safety rules .
+:alt: Icono indicador de reglas de seguridad sobre cortocircuitos o incendios.
 ```
-**Short circuit or fire**: A fire can be caused by an electrical short circuit, overheating, or even a battery explosion. We must avoid having conductive liquids nearby while handling the computer (coffee, water, etc.) and prevent any metal objects from falling inside the case while the computer is plugged in.
-It is important to check that the ventilation holes are not blocked and are functioning properly.
+**Cortocircuito o incendio**: Un incendio puede ser causado por un cortocircuito eléctrico, sobrecalentamiento o incluso la explosión de una batería. Debemos evitar tener líquidos conductores cerca mientras manipulamos la computadora (café, agua, etc.) y evitar que objetos metálicos caigan dentro de la carcasa mientras la computadora está enchufada.
+Es importante comprobar que los orificios de ventilación no estén bloqueados y funcionen correctamente.
 
-### 7) Methods and systems for fire extinguishing
+### 7) Métodos y sistemas de extinción de incendios
 
-Extinguishing methods:
+Métodos de extinción:
 
 ```{list-table}
 :header-rows: 0
 
-* - ![Fire extinguishers](images/Extinguishing_systems/Fire_extinguishers.jpeg)
-  - Fire extinguishers
-* - ![Fire hose reels](images/Extinguishing_systems/Fire_hose_reels.jpg)
-  - Fire hose reels
-* - ![Dry risers in buildings](images/Extinguishing_systems/Dry_risers.png)
-  - Dry risers in buildings
-* - ![Automatic sprinklers](images/Extinguishing_systems/Automatic_sprinklers.jpg)
-  - Automatic sprinklers
+* - ![Extintores](images/Extinguishing_systems/Fire_extinguishers.jpeg)
+  - Extintores
+* - ![Carretes de manguera](images/Extinguishing_systems/Fire_hose_reels.jpg)
+  - Carretes de manguera
+* - ![Columnas secas en edificios](images/Extinguishing_systems/Dry_risers.png)
+  - Columnas secas en edificios
+* - ![Rociadores automáticos](images/Extinguishing_systems/Automatic_sprinklers.jpg)
+  - Rociadores automáticos
 ```
 
-Different materials and equipment require different types of fire extinguishers. Knowing which extinguisher to use can prevent accidents and protect both people and devices. The image below shows the **five fire classes (A, B, C, D, and K)**. Each class refers to the type of material that is burning, for example, Class A for paper and textiles, Class B for flammable liquids, and Class C for electrical equipment.
+Diferentes materiales y equipos requieren diferentes tipos de extintores. Saber cuál usar puede prevenir accidentes y proteger tanto a las personas como a los dispositivos. La imagen a continuación muestra las **cinco clases de fuego (A, B, C, D y K)**. Cada clase se refiere al tipo de material que se está quemando, por ejemplo, Clase A para papel y textiles, Clase B para líquidos inflamables y Clase C para equipos eléctricos.
 
 
-#### Fire classes 
+#### Clases de fuego
 
 ```{image} images/Extinguishing_systems/Fire_Classes.png
 :width: 90%
 :align: center
-:alt: Fire hose reel .
+:alt: Carrete de manguera contra incendios.
 ```
 
-Different extinguishers are designed for different fire classes. Using the wrong one can make the fire worse or cause harm. The table below shows which extinguishers are safe and effective for each type of fire.
+Diferentes extintores están diseñados para diferentes clases de fuego. Usar el incorrecto puede empeorar el incendio o causar daños. La siguiente tabla muestra qué extintores son seguros y efectivos para cada tipo de fuego.
 
-| Extinguisher Type | CLASS A | CLASS B | CLASS C | CLASS D | CLASS K |
+| Tipo de extintor | CLASE A | CLASE B | CLASE C | CLASE D | CLASE K |
 |---|---|---|---|---|---|
-| Foam Spray | **Yes** | **Yes** | No | No | No |
-| ABC Powder | **Yes** | **Yes** | **Yes** | Yes | No |
-| Carbon Dioxide | No | **Yes** | No | **Yes** | No |
-| Wet Chemical | **Yes** | No | No | No | **Yes** |
-| Water | **Yes** | No | No | No | No |
+| Espuma | **Sí** | **Sí** | No | No | No |
+| Polvo ABC | **Sí** | **Sí** | **Sí** | Sí | No |
+| Dióxido de carbono | No | **Sí** | No | **Sí** | No |
+| Químico húmedo | **Sí** | No | No | No | **Sí** |
+| Agua | **Sí** | No | No | No | No |
 
 ```{infonote} 
-When dealing with electrical equipment, such as computers, always use a **Class C extinguisher** (e.g., CO₂ or Halotron). These do not conduct electricity and prevent further damage to devices.
+Al trabajar con equipos eléctricos, como computadoras, utiliza siempre un **extintor de Clase C** (por ejemplo, CO₂ o Halotron). Estos no conducen electricidad y previenen daños adicionales a los dispositivos.
 ```
 
-### 8) First aid
 
-```{infonote} 
-In the event of an injury, it is advisable to contact the person responsible for first aid and/or call the **Emergency Medical Service**.
+### 8) Primeros auxilios
+
+```{infonote}
+En caso de lesión, se recomienda ponerse en contacto con la persona responsable de los primeros auxilios y/o llamar al Servicio de Emergencias Médicas.
 ```
 
-On the following sheet 👇, you will find a **summary of the Safety Rules for Computer Assembly and Disassembly**, which you should use as a reference throughout all upcoming sessions:
+En la siguiente hoja 👇, encontrarás un **resumen de las Reglas de Seguridad para el Montaje y Desmontaje de Computadoras**, que deberás usar como referencia durante todas las próximas sesiones:
 
 ```{image} images/Safety_Rules_Sheet.jpg
 :width: 100%
 :align: center
-:alt: Summary of the Safety Rules for Computer Assembly and Disassembly.
+:alt: Resumen de las Reglas de Seguridad para el Montaje y Desmontaje de Computadoras.
 ```
